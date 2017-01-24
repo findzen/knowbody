@@ -69,7 +69,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : /assets/themes/bootstrap
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
