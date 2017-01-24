@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-tagline: 
+title: "Testimonials"
+description: ""
 ---
 {% include JB/setup %}
-

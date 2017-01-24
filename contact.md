@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-tagline: 
+title: "Contact"
+description: ""
 ---
 {% include JB/setup %}
-

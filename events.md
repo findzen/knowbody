@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-tagline: 
+title: "Events"
+description: ""
 ---
 {% include JB/setup %}
-
