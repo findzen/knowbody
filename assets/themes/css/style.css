@@ -108,6 +108,7 @@ a:active {
 
 .navbar-toggle {
   border: 0;
+  outline: none;
 }
 
 .navbar-toggle:hover,
@@ -141,6 +142,9 @@ a:active {
   border-top: 0;
 }
 
+.page-header {
+  margin-top: 0;
+}
 
 @media (min-width:768px) {
   body.home {
