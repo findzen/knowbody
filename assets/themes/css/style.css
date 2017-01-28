@@ -146,6 +146,10 @@ a:active {
   margin-top: 0;
 }
 
+.container {
+  max-width: 600px;
+}
+
 @media (min-width:768px) {
   body.home {
     background-size: 479px 1482px;
