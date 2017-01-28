@@ -7,29 +7,29 @@ description: ""
 
 <pre>
     This is a heading
-    =============
+    =================
 </pre>
 
 This is a heading
-=============
+=================
 
 <pre>
     This is a subheading
-    -------------
+    --------------------
 </pre>
 
 This is a subheading
--------------
+--------------------
 
 <pre>
-    *   A
-    *   bulleted
-    *   list
+    * A
+    * bulleted
+    * list
 </pre>
 
-*   A
-*   bulleted
-*   list
+* A
+* bulleted
+* list
 
 <pre>
     1. A
